@@ -20,3 +20,4 @@ git log: se usa para ver la historia de nuestros archivos, los commits, el usuar
 seguidamente ponemos el nombre de nuestro archivo.
 
 cambio 1
+cambio 2
