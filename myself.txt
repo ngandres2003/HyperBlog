@@ -1,5 +1,5 @@
 **************************************
-My name is Andres Ng
+My name is Andres Ng i like python
 I'm 19 years old
 I like to go to the gym
 I'm codding every day 
@@ -7,9 +7,5 @@ I hate the cloud in berlin
 I like traveling
 ***********************************(*)
 Proyecto de programacion en python
-gdhfyjsgvnkbsdjknvghasjhfc kjh
-fndjksahf khifahfkjghasfkjha
-fjkbaghf fjkanbfiguiafh
-jkfhasfhjgahiufyausfika
-ckahiufghasufghuiahg
-$%@#%$#&%*(&%&^$$(&_&)%^%#%$#%E#@$%&^)
+ if loco > 3:
+   print(numeros)
